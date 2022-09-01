@@ -8,6 +8,7 @@ A collective list of free and private APIs for use in software development
 * [More](#more)
 * [Courier Service](#courier-service)
 * [Governments](#governments)
+* [Banking](#banking)
 
 ### Payments
 API Source | Description | Auth | HTTPS | Type | Resources/Packages|
@@ -42,3 +43,8 @@ API Source | Description | Auth | HTTPS | Type | Resources/Packages|
 API Source | Description | Auth | HTTPS | Type | Resources/Packages|
 |---|---|---|---|---|---|
 | [porichoy](https://porichoy.gov.bd/) | Bangladesh’s leading real-time identity verification gateway | Yes | Yes | Paid | [npmjs](https://www.npmjs.com/package/porichoy) |
+
+### Banking
+API Source | Description | Auth | HTTPS | Type | Resources/Packages|
+|---|---|---|---|---|---|
+| [BD-Bank-List](https://github.com/khyrulAlam/BD-Bank-List) | Bank list of those who operate their service in Bangladesh | No | Yes | Free | [npmjs](https://www.npmjs.com/package/porichoy) |
