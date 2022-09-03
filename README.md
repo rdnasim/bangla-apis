@@ -24,7 +24,9 @@ API Source | Description | Auth | HTTPS | Type | Resources/Packages|
 ### Religious
 API Source | Description | Auth | HTTPS | Type | Resources/Packages|
 |---|---|---|---|---|---|
-| [Bangla Hadith API](https://github.com/alQuranBD/Bangla-Hadith-api) | This is an REST API of a huge Hadith collection of different hadith books contain Hadiths in Arabic, Bangla and English | No | Yes | Free | - |
+| [Bangla Hadith API](https://github.com/alQuranBD/Bangla-Hadith-api) | This is an REST API of a huge Hadith collection of different hadith books contain Hadiths in Arabic, Bangla and English | No | Yes | Free | [github](https://github.com/alQuranBD/Bangla-Hadith-api) |
+| [Bangla-Quran-api](https://github.com/alQuranBD/Bangla-Quran-api) | This is an REST API of Holy Quran with translation in Bangla and English. This api also includes the tafseer Tafhimul Quran | No | Yes | Free | [github](https://github.com/alQuranBD/Bangla-Quran-api) |
+| [ quran.com-api](https://github.com/quran/quran.com-api) |  Quran.com api | No | Yes | Free | [github](https://github.com/quran/quran.com-api), [documentation](https://quran.api-docs.io/v3) |
 
 ### Calendar and Time
 API Source | Description | Auth | HTTPS | Type | Resources/Packages|
@@ -50,3 +52,8 @@ API Source | Description | Auth | HTTPS | Type | Resources/Packages|
 API Source | Description | Auth | HTTPS | Type | Resources/Packages|
 |---|---|---|---|---|---|
 | [BD-Bank-List](https://github.com/khyrulAlam/BD-Bank-List) | Bank list of those who operate their service in Bangladesh | No | Yes | Free | [npmjs](https://www.npmjs.com/package/porichoy) |
+
+### Example
+API Source | Description | Auth | HTTPS | Type | Resources/Packages|
+|---|---|---|---|---|---|
+| [?](?) | About | ? | ? | ? | [?](?) |
