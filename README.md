@@ -1,6 +1,8 @@
 # bangla-apis
 A collective list of free and private APIs for use in software development
 
+CP - Company Policy
+
 ## Index
 * [Payments](#payments)
 * [Religious](#religious)
@@ -13,8 +15,8 @@ A collective list of free and private APIs for use in software development
 ### Payments
 API Source | Description | Auth | HTTPS | Type | Resources/Packages|
 |---|---|---|---|---|---|
-| bkash | - | - | - | - | - |
-| nagad | - | - | - | - | - |
+| [bkash](https://developer.bka.sh/) | Accept payments from bKash customer account using our rich API's of bKash Online Payment Gateway. Well structured and most secure payment application interfaces.| Yes | Yes | CP | [github-example](https://github.com/bKash-developer) |
+| [nagad](https://nagad.com.bd/) | Nagad Provide the payment api for accepting payments from Nagad | Yes | Yes | CP | [laravel-nagad](https://github.com/codeboxrcodehub/nagad), [node-nagad](https://github.com/shahriar-shojib/nagad-payment-gateway) |
 | upay | - | - | - | - | - |
 | amarpay | - | - | - | - | - |
 | sslcommerce | - | - | - | - | - |
