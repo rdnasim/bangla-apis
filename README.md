@@ -7,10 +7,11 @@ CP - Company Policy
 * [Payments](#payments)
 * [Religious](#religious)
 * [Calendar and Time](#calendar-and-time)
-* [More](#more)
 * [Courier Service](#courier-service)
 * [Governments](#governments)
 * [Banking](#banking)
+* [Locations](#locations)
+* [More](#more)
 
 ### Payments
 API Source | Description | Auth | HTTPS | Type | Resources/Packages|
@@ -52,6 +53,11 @@ API Source | Description | Auth | HTTPS | Type | Resources/Packages|
 API Source | Description | Auth | HTTPS | Type | Resources/Packages|
 |---|---|---|---|---|---|
 | [BD-Bank-List](https://github.com/khyrulAlam/BD-Bank-List) | Bank list of those who operate their service in Bangladesh | No | Yes | Free | [npmjs](https://www.npmjs.com/package/porichoy) |
+
+### Locations
+API Source | Description | Auth | HTTPS | Type | Resources/Packages|
+|---|---|---|---|---|---|
+| [Barikoi Places API](https://docs.barikoi.com/docs/intro/) | API Helps you to find address, geocode and reverse geocode place and city corporation information in Dhaka in our local context. | Yes | Yes | CP | [document](https://docs.barikoi.com/docs/intro/), [postman-collection](https://documenter.getpostman.com/view/2611089/RWTmvdtF) |
 
 ### Example
 API Source | Description | Auth | HTTPS | Type | Resources/Packages|
