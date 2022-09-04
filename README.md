@@ -58,6 +58,7 @@ API Source | Description | Auth | HTTPS | Type | Resources/Packages|
 API Source | Description | Auth | HTTPS | Type | Resources/Packages|
 |---|---|---|---|---|---|
 | [Barikoi Places API](https://docs.barikoi.com/docs/intro/) | API Helps you to find address, geocode and reverse geocode place and city corporation information in Dhaka in our local context. | Yes | Yes | CP | [document](https://docs.barikoi.com/docs/intro/), [postman-collection](https://documenter.getpostman.com/view/2611089/RWTmvdtF) |
+| [Dingi Map API](https://www.dingi.tech/docs/api/index.html) | Dingi APIs Allow you to access map-releated tools & services | Yes | Yes | CP | [document](https://www.dingi.tech/docs/api/index.html), [web-sdk](https://github.com/dingilive/map-integration-web/blob/master/map_view.html), [android-sdk](https://www.dingi.tech/docs/android-sdk/index.html), [iOS-sdk](https://www.dingi.tech/docs/ios-sdk/index.html)
 
 ### Example
 API Source | Description | Auth | HTTPS | Type | Resources/Packages|
