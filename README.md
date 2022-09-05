@@ -1,5 +1,5 @@
 # bangla-apis
-A collective list of free and private APIs for use in software development
+A collective list in bangladesh perspective of free and private APIs for use in software development
 
 CP - Company Policy
 
