@@ -42,6 +42,7 @@ API Source | Description | Auth | HTTPS | Type | Resources/Packages|
 ### Courier Service
 API Source | Description | Auth | HTTPS | Type | Resources/Packages|
 |---|---|---|---|---|---|
+| Redx | Redx Provide the API for Create Parcel and tracking parcel | Yes | Yes | - | [laravel-package](https://github.com/codeboxrcodehub/redx-courier) |
 | eCourier | - | - | - | - | - |
 
 ### Governments
