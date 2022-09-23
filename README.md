@@ -16,7 +16,7 @@ CP - Company Policy
 ### Payments
 API Source | Description | Auth | HTTPS | Type | Resources/Packages|
 |---|---|---|---|---|---|
-| [bkash](https://developer.bka.sh/) | Accept payments from bKash customer account using our rich API's of bKash Online Payment Gateway. Well structured and most secure payment application interfaces.| Yes | Yes | CP | [github-example](https://github.com/bKash-developer) |
+| [bkash](https://developer.bka.sh/) | Accept payments from bKash customer account using our rich API's of bKash Online Payment Gateway. Well structured and most secure payment application interfaces.| Yes | Yes | CP | [github-example](https://github.com/bKash-developer), [flutter_bkash](https://pub.dartlang.org/packages/flutter_bkash) |
 | [nagad](https://nagad.com.bd/) | Nagad Provide the payment api for accepting payments from Nagad | Yes | Yes | CP | [laravel-nagad](https://github.com/codeboxrcodehub/nagad), [node-nagad](https://github.com/shahriar-shojib/nagad-payment-gateway) |
 | [upay](https://www.upaybd.com/) | upay Provide the payment api for accepting payments from upay | Yes | Yes | CP | [laravel-upay](https://github.com/codeboxrcodehub/upay) |
 | [amarpay](https://developer.aamarpay.com/) | aamarPay Payment Gateway enables Merchants to receive money from their customers by temporarily redirecting them to www.aamarpay.com. | Yes | Yes | CP | [github-example](https://github.com/aamarpay-dev), [flutter-package](https://github.com/aamarpay-dev/aamarPay-flutter), [android-library](https://github.com/aamarpay-dev/aamarPay-Android-Library) |
