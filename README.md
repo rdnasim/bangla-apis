@@ -22,6 +22,7 @@ API Source | Description | Auth | HTTPS | Type | Resources/Packages|
 | [upay](https://www.upaybd.com/) | upay Provide the payment api for accepting payments from upay | Yes | Yes | CP | [laravel-upay](https://github.com/codeboxrcodehub/upay) |
 | [amarpay](https://developer.aamarpay.com/) | aamarPay Payment Gateway enables Merchants to receive money from their customers by temporarily redirecting them to www.aamarpay.com. | Yes | Yes | CP | [github-example](https://github.com/aamarpay-dev), [flutter-package](https://github.com/aamarpay-dev/aamarPay-flutter), [android-library](https://github.com/aamarpay-dev/aamarPay-Android-Library) |
 | [sslcommerce](https://developer.sslcommerz.com/) | Accept payments with our SSLCOMMERZ's APIs. We process payments through bank gateways. Simple API, Easy Integration, Less Effort | Yes | Yes | CP | [github-example](https://github.com/sslcommerz) |
+| [portpos](https://portpos.com/) | Accepting Payments or Paying online is easy with PortPos | Yes | Yes | CP | [documentation](http://developer.portpos.com/) |
 
 ### Religious
 API Source | Description | Auth | HTTPS | Type | Resources/Packages|
