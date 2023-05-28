@@ -52,6 +52,7 @@ API Source | Description | Auth | HTTPS | Type | Resources/Packages|
 |---|---|---|---|---|---|
 | [Redx](https://redx.com.bd/) | Redx Provide the API for Create Parcel and tracking parcel | Yes | Yes | CP | [laravel-package](https://github.com/codeboxrcodehub/redx-courier) |
 | eCourier | - | - | - | - | - |
+| [PandaGo](https://pandago-bd.com/) | pandago is an on-demand delivery service that helps you to send items such as food, documents, parcels, and gifts to your customers, business partner | Yes | Yes | CP | [API Documentation](https://pandago.docs.apiary.io/), [laravel-sdk](https://github.com/lloricode/laravel-pandago-sdk) |
 
 ### Governments
 API Source | Description | Auth | HTTPS | Type | Resources/Packages|
