@@ -51,7 +51,7 @@ API Source | Description | Auth | HTTPS | Type | Resources/Packages|
 API Source | Description | Auth | HTTPS | Type | Resources/Packages|
 |---|---|---|---|---|---|
 | [Redx](https://redx.com.bd/) | Redx Provide the API for Create Parcel and tracking parcel | Yes | Yes | CP | [laravel-package](https://github.com/codeboxrcodehub/redx-courier) |
-| eCourier | - | - | - | - | - |
+| [eCourier](https://ecourier.com.bd/) | eCourier is Bangladesh's most trusted on-demand last mile logistics network offering tech-enabled one stop delivery solutions | Yes | Yes | CP | [General Documentation](https://ecourier.com.bd/wp-content/uploads/eCourier_Merchant_API_Document_General_v5.2.pdf), [Rseller Documentation](https://ecourier.com.bd/wp-content/uploads/eCourier_Merchant_APIDocument__Reseller_v5.2.pdf), [laravel-package](https://github.com/codeboxrcodehub/ecourier-courier), [wordpress](https://github.com/simongomes/ecourier-parcel-tracker), [WooCommerce](https://github.com/simongomes/ship-to-ecourier) |
 | [PandaGo](https://pandago-bd.com/) | pandago is an on-demand delivery service that helps you to send items such as food, documents, parcels, and gifts to your customers, business partner | Yes | Yes | CP | [API Documentation](https://pandago.docs.apiary.io/), [laravel-sdk](https://github.com/lloricode/laravel-pandago-sdk) |
 
 ### Governments
