@@ -41,6 +41,7 @@ API Source | Description | Auth | HTTPS | Type | Resources/Packages|
 API Source | Description | Auth | HTTPS | Type | Resources/Packages|
 |---|---|---|---|---|---|
 | [Holiday API](https://holidayapi.com/docs) | Discover the easiest way to enhance your website or application with public holidays and observances. | Yes | Yes | Paid | - |
+| [Doptor Portal Holiday API](https://doptor-portal.tappware.com/blog/holiday-calendar-api) | Discover the easiest way to enhance your website or application with public holidays and observances. | Yes | Yes | Free | - |
 
 ### More
 API Source | Description | Auth | HTTPS | Type | Resources/Packages|
