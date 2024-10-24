@@ -12,6 +12,7 @@ CP - Company Policy
 * [Governments](#governments)
 * [Banking](#banking)
 * [Locations](#locations)
+* [BD Laws](#bd-laws)
 * [More](#more)
 
 ### Payments
@@ -71,6 +72,11 @@ API Source | Description | Auth | HTTPS | Type | Resources/Packages|
 | [Barikoi Places API](https://docs.barikoi.com/docs/intro/) | API Helps you to find address, geocode and reverse geocode place and city corporation information in Dhaka in our local context. | Yes | Yes | CP | [document](https://docs.barikoi.com/docs/intro/), [postman-collection](https://documenter.getpostman.com/view/2611089/RWTmvdtF) |
 | [Dingi Map API](https://www.dingi.tech/docs/api/index.html) | Dingi APIs Allow you to access map-releated tools & services | Yes | Yes | CP | [document](https://www.dingi.tech/docs/api/index.html), [web-sdk](https://github.com/dingilive/map-integration-web/blob/master/map_view.html), [android-sdk](https://www.dingi.tech/docs/android-sdk/index.html), [iOS-sdk](https://www.dingi.tech/docs/ios-sdk/index.html) |
 | [BD API](https://bdapis.herokuapp.com/)|Divisions, Districts, Upazilla, Thana, Post Office, Post Code etc of Bangladesh are available in Bangla and English within endpoints.| No | Yes | Free | [github](https://github.com/AbmSourav/bdapis), [rapid-api](https://rapidapi.com/AbmSourav/api/bdapi) |
+
+### BD LAWS
+API Source | Description | Auth | HTTPS | Type | Resources/Packages|
+|---|---|---|---|---|---|
+| [BD LAWS API](https://bd-laws.pages.dev/) | Laws Of Bangladesh | No | No | Free | [search](https://bd-laws-api.bdit.community/api/search/dhaka), [volumes](https://bd-laws-api.bdit.community/api/volumes), [acts](https://bd-laws-api.bdit.community/api/acts/1), [sections](https://bd-laws-api.bdit.community/api/sections/28)|
 
 ### Example
 API Source | Description | Auth | HTTPS | Type | Resources/Packages|
